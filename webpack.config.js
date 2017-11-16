@@ -13,26 +13,13 @@ module.exports = function(webpackConfig) {
         style: "css",
     }]);
 
-    // Enable this if you have to support IE8.
-    // webpackConfig.module.loaders.unshift({
-    //   test: /\.jsx?$/,
-    //   loader: 'es3ify-loader',
-    // });
-
-    // Parse all less files as css module.
-    webpackConfig.module.loaders.forEach(function(loader, index) {
-        if (typeof loader.test === 'function' && loader.test.toString().indexOf('\\.less$') > -1) {
-            loader.test = /\.dont\.exist\.file/;
-        }
-        if (loader.test.toString() === '/\\.module\\.less$/') {
-            loader.test = /\.less$/;
-        }
-    });
-
     webpackConfig.module.loaders.push({
         test: /\.handlebars$/,
         loader: 'spmhandlebars-loader'
     });
+
+    webpackConfig.module.loaders
+        .push({ test: /\.(svg|woff|eot)\??.*$/, loader: "url-loader?limit=65000&name=font_[name].[ext]" });
 
     // Load src/entries/*.js as entry automatically.
     const files = glob.sync('./src/entries/*.js');

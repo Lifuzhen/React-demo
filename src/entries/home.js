@@ -14,6 +14,7 @@ class home extends React.Component{
         return <div style={{padding:"24px"}}>
             <h1>这是所有页面的开始文件</h1>
             <Button type="primary" onClick={this.click.bind(this)}>成功</Button>
+            <i className="iconfont icon-power"></i>
         </div>
     }
 
