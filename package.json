@@ -14,10 +14,12 @@
     "home": "^1.0.1",
     "isomorphic-fetch": "^2.2.1",
     "js-cookie": "^2.1.1",
+    "mysql": "^2.15.0",
     "react": "^15.3.2",
     "react-dom": "^15.0.2",
     "react-redux": "^4.4.5",
     "react-router": "^2.0.1",
+    "required": "^1.0.0",
     "spmhandlebars-loader": "^0.1.0"
   },
   "devDependencies": {
