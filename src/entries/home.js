@@ -18,7 +18,7 @@ class home extends React.Component{
             <Button type="primary" onClick={this.click.bind(this)}>成功</Button>
             <Button type="warning" onClick={this.clickWarning.bind(this)}>警告</Button>
             <Tooltip title="字体图标">
-                <i className="iconfont icon-power" style={{display:"block",width:"20px",height:"20px",color:"#000"}}/>
+                <i className="iconfont icon-power"/>
             </Tooltip>
         </div>
     }
