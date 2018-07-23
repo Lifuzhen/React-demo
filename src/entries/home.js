@@ -2,11 +2,16 @@
  * Created by toutyio on 2017/11/16.
  */
 import React from "react";
+import { Editor } from 'react-draft-wysiwyg';
+import { EditorState } from 'draft-js';
+// import 'react-draft-wysiwyg/dist/react-draft-wysiwyg.css';
+import "../../node_modules/react-draft-wysiwyg/dist/react-draft-wysiwyg.css"
 import {message, Button, Tooltip, Radio, Icon, Dropdown, Menu, Affix, Breadcrumb} from "antd";
 
 class home extends React.Component{
     state = {
         size: 'large',
+        editorState: EditorState.createEmpty(),
     };
 
     handleSizeChange = (e) => {
@@ -17,7 +22,11 @@ class home extends React.Component{
         console.log('click', e);
      }
 
+    onEditorStateChange(value){
+        message.success(value)
+    }
     render(){
+        const { editorState } = this.state;
         const menu = (
             <Menu onClick={this.handleMenuClick.bind(this)}>
                 <Menu.Item key="1">1st item</Menu.Item>
@@ -101,6 +110,8 @@ class home extends React.Component{
                     <Breadcrumb.Item>An Application</Breadcrumb.Item>
                 </Breadcrumb>
             </div>
+
+
 
         </div>
     }
