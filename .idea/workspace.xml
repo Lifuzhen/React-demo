@@ -2,304 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bb5fd8e-bfac-4973-a766-cfeeab9af99d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/views/index.ejs" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/entries/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/entries/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/draft-js/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/README.md" afterPath="$PROJECT_DIR$/node_modules/draft-js/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/dist/Draft.css" afterPath="$PROJECT_DIR$/node_modules/draft-js/dist/Draft.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/dist/Draft.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/dist/Draft.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/dist/Draft.min.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/dist/Draft.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/AtomicBlockUtils.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/AtomicBlockUtils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/AtomicBlockUtils.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/AtomicBlockUtils.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/BlockMap.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/BlockMap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/BlockMap.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/BlockMap.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/BlockMapBuilder.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/BlockMapBuilder.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/BlockMapBuilder.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/BlockMapBuilder.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/BlockTree.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/BlockTree.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/BlockTree.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/BlockTree.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/CharacterMetadata.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/CharacterMetadata.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/CharacterMetadata.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/CharacterMetadata.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/ComposedEntityMutability.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/ComposedEntityMutability.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/ComposedEntityMutability.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/ComposedEntityMutability.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/ComposedEntityType.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/ComposedEntityType.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/ComposedEntityType.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/ComposedEntityType.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/CompositeDraftDecorator.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/CompositeDraftDecorator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/CompositeDraftDecorator.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/CompositeDraftDecorator.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/ContentBlock.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/ContentBlock.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/ContentBlock.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/ContentBlock.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/ContentState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/ContentState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/ContentState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/ContentState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/ContentStateInlineStyle.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/ContentStateInlineStyle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/ContentStateInlineStyle.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/ContentStateInlineStyle.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DOMDerivedSelection.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DOMDerivedSelection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DOMDerivedSelection.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DOMDerivedSelection.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DefaultDraftBlockRenderMap.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DefaultDraftBlockRenderMap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DefaultDraftBlockRenderMap.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DefaultDraftBlockRenderMap.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DefaultDraftInlineStyle.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DefaultDraftInlineStyle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DefaultDraftInlineStyle.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DefaultDraftInlineStyle.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/Draft.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/Draft.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/Draft.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/Draft.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftBlockRenderConfig.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftBlockRenderConfig.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftBlockRenderConfig.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftBlockRenderConfig.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftBlockRenderMap.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftBlockRenderMap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftBlockRenderMap.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftBlockRenderMap.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftBlockType.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftBlockType.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftBlockType.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftBlockType.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftDecorator.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftDecorator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftDecorator.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftDecorator.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftDecoratorType.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftDecoratorType.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftDecoratorType.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftDecoratorType.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftDragType.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftDragType.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftDragType.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftDragType.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditor.react.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditor.react.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditor.react.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditor.react.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorBlock.react.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorBlock.react.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorBlock.react.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorBlock.react.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorCommand.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorCommand.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorCommand.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorCommand.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorCompositionHandler.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorCompositionHandler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorCompositionHandler.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorCompositionHandler.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorContents.react.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorContents.react.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorContents.react.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorContents.react.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorDragHandler.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorDragHandler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorDragHandler.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorDragHandler.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorEditHandler.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorEditHandler.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorEditHandler.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorEditHandler.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorLeaf.react.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorLeaf.react.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorLeaf.react.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorLeaf.react.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorModes.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorModes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorModes.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorModes.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorPlaceholder.react.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorPlaceholder.react.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorPlaceholder.react.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorPlaceholder.react.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorProps.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorProps.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorProps.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorProps.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorTextNode.react.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorTextNode.react.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorTextNode.react.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEditorTextNode.react.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntity.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntity.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntity.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntity.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntityInstance.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntityInstance.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntityInstance.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntityInstance.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntityMutability.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntityMutability.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntityMutability.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntityMutability.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntitySegments.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntitySegments.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntitySegments.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntitySegments.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntityType.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntityType.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntityType.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftEntityType.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftFeatureFlags-core.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftFeatureFlags-core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftFeatureFlags-core.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftFeatureFlags-core.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftFeatureFlags.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftFeatureFlags.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftFeatureFlags.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftFeatureFlags.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftHandleValue.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftHandleValue.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftHandleValue.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftHandleValue.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftInlineStyle.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftInlineStyle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftInlineStyle.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftInlineStyle.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftInsertionType.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftInsertionType.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftInsertionType.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftInsertionType.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftModifier.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftModifier.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftModifier.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftModifier.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftOffsetKey.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftOffsetKey.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftOffsetKey.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftOffsetKey.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftOffsetKeyPath.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftOffsetKeyPath.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftOffsetKeyPath.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftOffsetKeyPath.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftPasteProcessor.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftPasteProcessor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftPasteProcessor.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftPasteProcessor.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftRange.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftRange.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftRange.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftRange.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftRemovableWord.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftRemovableWord.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftRemovableWord.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftRemovableWord.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftRemovalDirection.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftRemovalDirection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftRemovalDirection.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftRemovalDirection.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftScrollPosition.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftScrollPosition.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftScrollPosition.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftScrollPosition.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftStringKey.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftStringKey.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftStringKey.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftStringKey.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftTextAlignment.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftTextAlignment.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftTextAlignment.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/DraftTextAlignment.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorBidiService.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorBidiService.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorBidiService.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorBidiService.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorChangeType.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorChangeType.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorChangeType.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorChangeType.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorStateCreationConfig.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorStateCreationConfig.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorStateCreationConfig.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/EditorStateCreationConfig.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/EntityMap.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/EntityMap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/EntityMap.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/EntityMap.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/EntityRange.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/EntityRange.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/EntityRange.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/EntityRange.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/InlineStyleRange.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/InlineStyleRange.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/InlineStyleRange.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/InlineStyleRange.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/KeyBindingUtil.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/KeyBindingUtil.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/KeyBindingUtil.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/KeyBindingUtil.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/RawDraftContentBlock.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/RawDraftContentBlock.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/RawDraftContentBlock.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/RawDraftContentBlock.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/RawDraftContentState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/RawDraftContentState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/RawDraftContentState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/RawDraftContentState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/RawDraftEntity.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/RawDraftEntity.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/RawDraftEntity.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/RawDraftEntity.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/RichTextEditorUtil.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/RichTextEditorUtil.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/RichTextEditorUtil.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/RichTextEditorUtil.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/SampleDraftInlineStyle.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/SampleDraftInlineStyle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/SampleDraftInlineStyle.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/SampleDraftInlineStyle.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/SecondaryClipboard.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/SecondaryClipboard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/SecondaryClipboard.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/SecondaryClipboard.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/SelectionState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/SelectionState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/SelectionState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/SelectionState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/addEntityToContentState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/addEntityToContentState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/addEntityToContentState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/addEntityToContentState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/addEntityToEntityMap.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/addEntityToEntityMap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/addEntityToEntityMap.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/addEntityToEntityMap.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/adjustBlockDepthForContentState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/adjustBlockDepthForContentState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/adjustBlockDepthForContentState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/adjustBlockDepthForContentState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/applyEntityToContentBlock.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/applyEntityToContentBlock.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/applyEntityToContentBlock.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/applyEntityToContentBlock.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/applyEntityToContentState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/applyEntityToContentState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/applyEntityToContentState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/applyEntityToContentState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/convertFromDraftStateToRaw.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/convertFromDraftStateToRaw.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/convertFromDraftStateToRaw.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/convertFromDraftStateToRaw.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/convertFromHTMLToContentBlocks.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/convertFromHTMLToContentBlocks.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/convertFromHTMLToContentBlocks.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/convertFromHTMLToContentBlocks.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/convertFromRawToDraftState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/convertFromRawToDraftState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/convertFromRawToDraftState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/convertFromRawToDraftState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/createCharacterList.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/createCharacterList.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/createCharacterList.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/createCharacterList.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/createEntityInContentState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/createEntityInContentState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/createEntityInContentState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/createEntityInContentState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/decodeEntityRanges.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/decodeEntityRanges.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/decodeEntityRanges.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/decodeEntityRanges.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/decodeInlineStyleRanges.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/decodeInlineStyleRanges.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/decodeInlineStyleRanges.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/decodeInlineStyleRanges.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnBeforeInput.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnBeforeInput.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnBeforeInput.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnBeforeInput.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnBlur.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnBlur.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnBlur.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnBlur.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnCompositionStart.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnCompositionStart.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnCompositionStart.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnCompositionStart.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnCopy.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnCopy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnCopy.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnCopy.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnCut.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnCut.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnCut.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnCut.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnDragOver.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnDragOver.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnDragOver.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnDragOver.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnDragStart.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnDragStart.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnDragStart.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnDragStart.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnFocus.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnFocus.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnFocus.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnFocus.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnInput.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnInput.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnInput.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnInput.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnKeyDown.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnKeyDown.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnKeyDown.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnKeyDown.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnPaste.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnPaste.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnPaste.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnPaste.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnSelect.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnSelect.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnSelect.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/editOnSelect.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/encodeEntityRanges.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/encodeEntityRanges.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/encodeEntityRanges.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/encodeEntityRanges.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/encodeInlineStyleRanges.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/encodeInlineStyleRanges.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/encodeInlineStyleRanges.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/encodeInlineStyleRanges.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/expandRangeToStartOfLine.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/expandRangeToStartOfLine.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/expandRangeToStartOfLine.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/expandRangeToStartOfLine.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/findAncestorOffsetKey.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/findAncestorOffsetKey.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/findAncestorOffsetKey.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/findAncestorOffsetKey.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/findRangesImmutable.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/findRangesImmutable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/findRangesImmutable.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/findRangesImmutable.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/generateRandomKey.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/generateRandomKey.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/generateRandomKey.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/generateRandomKey.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getCharacterRemovalRange.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getCharacterRemovalRange.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getCharacterRemovalRange.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getCharacterRemovalRange.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getContentStateFragment.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getContentStateFragment.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getContentStateFragment.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getContentStateFragment.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getDefaultKeyBinding.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getDefaultKeyBinding.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getDefaultKeyBinding.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getDefaultKeyBinding.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getDraftEditorSelection.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getDraftEditorSelection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getDraftEditorSelection.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getDraftEditorSelection.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getDraftEditorSelectionWithNodes.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getDraftEditorSelectionWithNodes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getDraftEditorSelectionWithNodes.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getDraftEditorSelectionWithNodes.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getEntityKeyForSelection.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getEntityKeyForSelection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getEntityKeyForSelection.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getEntityKeyForSelection.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getFragmentFromSelection.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getFragmentFromSelection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getFragmentFromSelection.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getFragmentFromSelection.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getRangeBoundingClientRect.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getRangeBoundingClientRect.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getRangeBoundingClientRect.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getRangeBoundingClientRect.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getRangeClientRects.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getRangeClientRects.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getRangeClientRects.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getRangeClientRects.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getRangesForDraftEntity.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getRangesForDraftEntity.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getRangesForDraftEntity.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getRangesForDraftEntity.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getSafeBodyFromHTML.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getSafeBodyFromHTML.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getSafeBodyFromHTML.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getSafeBodyFromHTML.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getSampleStateForTesting.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getSampleStateForTesting.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getSampleStateForTesting.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getSampleStateForTesting.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getSelectionOffsetKeyForNode.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getSelectionOffsetKeyForNode.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getSelectionOffsetKeyForNode.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getSelectionOffsetKeyForNode.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getTextAfterNearestEntity.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getTextAfterNearestEntity.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getTextAfterNearestEntity.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getTextAfterNearestEntity.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getTextContentFromFiles.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getTextContentFromFiles.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getTextContentFromFiles.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getTextContentFromFiles.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getUpdatedSelectionState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getUpdatedSelectionState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getUpdatedSelectionState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getUpdatedSelectionState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getVisibleSelectionRect.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getVisibleSelectionRect.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/getVisibleSelectionRect.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/getVisibleSelectionRect.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/insertFragmentIntoContentState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/insertFragmentIntoContentState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/insertFragmentIntoContentState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/insertFragmentIntoContentState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/insertIntoList.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/insertIntoList.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/insertIntoList.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/insertIntoList.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/insertTextIntoContentState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/insertTextIntoContentState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/insertTextIntoContentState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/insertTextIntoContentState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/isEventHandled.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/isEventHandled.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/isEventHandled.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/isEventHandled.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/isSelectionAtLeafStart.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/isSelectionAtLeafStart.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/isSelectionAtLeafStart.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/isSelectionAtLeafStart.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/isSoftNewlineEvent.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/isSoftNewlineEvent.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/isSoftNewlineEvent.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/isSoftNewlineEvent.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandBackspaceToStartOfLine.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandBackspaceToStartOfLine.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandBackspaceToStartOfLine.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandBackspaceToStartOfLine.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandBackspaceWord.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandBackspaceWord.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandBackspaceWord.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandBackspaceWord.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandDeleteWord.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandDeleteWord.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandDeleteWord.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandDeleteWord.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandInsertNewline.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandInsertNewline.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandInsertNewline.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandInsertNewline.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandMoveSelectionToEndOfBlock.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandMoveSelectionToEndOfBlock.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandMoveSelectionToEndOfBlock.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandMoveSelectionToEndOfBlock.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandMoveSelectionToStartOfBlock.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandMoveSelectionToStartOfBlock.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandMoveSelectionToStartOfBlock.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandMoveSelectionToStartOfBlock.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandPlainBackspace.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandPlainBackspace.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandPlainBackspace.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandPlainBackspace.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandPlainDelete.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandPlainDelete.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandPlainDelete.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandPlainDelete.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandTransposeCharacters.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandTransposeCharacters.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandTransposeCharacters.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandTransposeCharacters.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandUndo.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandUndo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandUndo.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/keyCommandUndo.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/modifyBlockForContentState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/modifyBlockForContentState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/modifyBlockForContentState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/modifyBlockForContentState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/moveBlockInContentState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/moveBlockInContentState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/moveBlockInContentState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/moveBlockInContentState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/moveSelectionBackward.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/moveSelectionBackward.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/moveSelectionBackward.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/moveSelectionBackward.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/moveSelectionForward.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/moveSelectionForward.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/moveSelectionForward.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/moveSelectionForward.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/removeEntitiesAtEdges.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/removeEntitiesAtEdges.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/removeEntitiesAtEdges.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/removeEntitiesAtEdges.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/removeRangeFromContentState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/removeRangeFromContentState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/removeRangeFromContentState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/removeRangeFromContentState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/removeTextWithStrategy.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/removeTextWithStrategy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/removeTextWithStrategy.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/removeTextWithStrategy.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/sanitizeDraftText.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/sanitizeDraftText.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/sanitizeDraftText.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/sanitizeDraftText.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/setDraftEditorSelection.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/setDraftEditorSelection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/setDraftEditorSelection.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/setDraftEditorSelection.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/splitBlockInContentState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/splitBlockInContentState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/splitBlockInContentState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/splitBlockInContentState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/splitTextIntoTextBlocks.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/splitTextIntoTextBlocks.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/splitTextIntoTextBlocks.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/splitTextIntoTextBlocks.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/updateEntityDataInContentState.js" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/updateEntityDataInContentState.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/lib/updateEntityDataInContentState.js.flow" afterPath="$PROJECT_DIR$/node_modules/draft-js/lib/updateEntityDataInContentState.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/draft-js/package.json" afterPath="$PROJECT_DIR$/node_modules/draft-js/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/entries/home.js" afterPath="$PROJECT_DIR$/src/entries/home.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/entries/index.js" afterPath="$PROJECT_DIR$/src/entries/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -338,21 +44,23 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/entries/index.html">
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/entries/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="220">
-                  <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-                  <folding />
+                <state relative-caret-position="120">
+                  <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+                  <folding>
+                    <element signature="e#45#71#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/webpack.config.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="301">
-                  <caret line="29" column="71" lean-forward="false" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+                <state relative-caret-position="480">
+                  <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
                   <folding>
                     <element signature="e#1221#1259#0" expanded="false" />
                   </folding>
@@ -367,8 +75,8 @@
           <file leaf-file-name="index.less" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/entries/index.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="20">
-                  <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+                <state relative-caret-position="200">
+                  <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
                   <folding />
                 </state>
               </provider>
@@ -408,7 +116,6 @@
         <option value="$PROJECT_DIR$/src/home.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/h5.js" />
-        <option value="$PROJECT_DIR$/src/entries/index.js" />
         <option value="$PROJECT_DIR$/src/entries/index.html" />
         <option value="$PROJECT_DIR$/src/entries/index.less" />
         <option value="$PROJECT_DIR$/src/nodeJs/users.js" />
@@ -416,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/entries/home.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/entries/index.js" />
       </list>
     </option>
   </component>
@@ -497,6 +205,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="React" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="React" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -632,22 +358,22 @@
       <workItem from="1523849258667" duration="188000" />
       <workItem from="1524047325804" duration="1700000" />
       <workItem from="1528877541124" duration="149000" />
-      <workItem from="1532311616279" duration="1411000" />
+      <workItem from="1532311616279" duration="1762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21762000" />
+    <option name="totallyTimeSpent" value="22113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19122024" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19122024" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23770492" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6557377" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5327869" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -661,25 +387,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23770492" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5327869" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19122024" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -694,13 +401,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/nodeJs/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
@@ -1045,13 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/entries/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-draft-wysiwyg/src/Editor/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
@@ -1117,14 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/entries/index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -1149,10 +834,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="29" column="71" lean-forward="false" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+        <state relative-caret-position="480">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding>
             <element signature="e#1221#1259#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entries/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/dist/antd.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1080">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entries/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="e#45#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
